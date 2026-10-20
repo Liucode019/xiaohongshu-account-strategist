@@ -1,0 +1,6 @@
+interface:
+  display_name: "小红书账号定位与内容运营助手"
+  short_description: "分析多账号策略，建立原创定位、内容计划与数据复盘体系"
+  default_prompt: "使用 $xiaohongshu-account-strategist 分析这些对标账号，并提炼适合我账号的原创运营策略。"
+policy:
+  allow_implicit_invocation: true
